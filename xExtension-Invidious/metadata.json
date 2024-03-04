@@ -1,0 +1,8 @@
+{
+	"name": "Invidious Video Feed",
+	"author": "underclockeddev",
+	"description": "Embed Invidious feeds inside article content.",
+	"version": 0.10,
+	"entrypoint": "Invidious",
+	"type": "user"
+}
